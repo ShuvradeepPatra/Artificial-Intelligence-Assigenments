@@ -1,4 +1,4 @@
-#NumPy and Matplotlib Project
+#NUMPY AND MATPLOTLIB PROJECT
 
 This repository contains practice exercises using NumPy and Matplotlib.
 
@@ -14,3 +14,7 @@ Tools used:
 - NumPy
 - Matplotlib
 - Kaggle Notebook
+
+
+
+
